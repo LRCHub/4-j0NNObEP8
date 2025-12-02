@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Stand By You",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-02T19:47:26.426769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Stand By You",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/01_I'll_Stand_By_You_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Stand By You",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/02_I'll_Stand_By_You_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Stand By You",
+      "artist": "Pretenders",
+      "has_synced": true,
+      "path": "select/03_I'll_Stand_By_You_Pretenders.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Stand By You",
+      "artist": "The Pretenders",
+      "has_synced": true,
+      "path": "select/04_I'll_Stand_By_You_The_Pretenders.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Stand by You (Live at The Isle Of Wight Festival, UK, 9 June 2017)",
+      "artist": "Pretenders",
+      "has_synced": true,
+      "path": "select/05_I'll_Stand_by_You_(Live_at_The_Isle_Of_Wight_Festival,_UK,_9_June_2017)_Pretenders.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Stand By You (Live)",
+      "artist": "Giorgia",
+      "has_synced": true,
+      "path": "select/06_I'll_Stand_By_You_(Live)_Giorgia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Stand By You",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/07_I'll_Stand_By_You_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I’ll Stand by You",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/08_I’ll_Stand_by_You_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Stand By You",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/09_I'll_Stand_By_You_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I’ll Stand by You",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/10_I’ll_Stand_by_You_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Stand By You",
+      "artist": "Idina Menzel",
+      "has_synced": true,
+      "path": "select/11_I'll_Stand_By_You_Idina_Menzel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Stand By You (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/12_I'll_Stand_By_You_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stand By You",
+      "artist": "DubVision feat. Pontifexx",
+      "has_synced": true,
+      "path": "select/13_Stand_By_You_DubVision_feat._Pontifexx.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stand By You",
+      "artist": "DubVision",
+      "has_synced": false,
+      "path": "select/14_Stand_By_You_DubVision.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stand By You",
+      "artist": "Rachel Platten",
+      "has_synced": true,
+      "path": "select/15_Stand_By_You_Rachel_Platten.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'll Stand by You",
+      "artist": "Natalie Taylor",
+      "has_synced": true,
+      "path": "select/16_I'll_Stand_by_You_Natalie_Taylor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stand By You",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Stand_By_You_Official髭男dism.txt"
+    }
+  ]
+}
